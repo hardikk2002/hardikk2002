@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hardikk2002@gmail.com**
 
-- ⚡ Fun fact **Just remember I am The m3n.in.hood!**
+- ⚡ Fun fact Just remember: I am The m3n.in.hood! 🏹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
