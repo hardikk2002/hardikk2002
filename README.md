@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HARDIK KAUSHIK  (th3h00d)</h1>
+<h1 align="center">Hi 👋, I'm HARDIK KAUSHIK</h1>
 <h1 align="center"> (th3h00d)</h1>
 
 <h3 align="center">A passionate Full-Stack Developer and Competitive Programmer</h3>
