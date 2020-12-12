@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm HARDIK KAUSHIK (th3h00d)</h1>
+<h1 align="center">Hi 👋, I'm HARDIK KAUSHIK  (th3h00d)</h1>
+<h1 align="center"> (th3h00d)</h1>
+
 <h3 align="center">A passionate Full-Stack Developer and Competitive Programmer</h3>
+</br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hardikk2002&label=Profile%20views&color=0e75b6&style=flat" alt="hardikk2002" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikk2002" alt="hardikk2002" /></a> </p>
+</br>
+</br>
 
 - 🌱 I’m currently learning **Human phycology.**
 
@@ -17,15 +22,20 @@
 
 - ⚡ Fun fact: Just remember I am The m3n.in.hood! 🏹
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hardikk2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hardikk2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hardikk2002" height="30" width="40" /></a>
+</br>
+</br>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/hardikk2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40" style="color: white;" /></a>
+  
+<a href="https://linkedin.com/in/hardikk2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hardikk2002" height="30" width="40" style="color: white;" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="left"> 
+<div style="align: center;">
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -46,6 +56,8 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikk2002&show_icons=true&locale=en&layout=compact" alt="hardikk2002" /></p>
+</div>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikk2002&show_icons=true&locale=en" alt="hardikk2002" /></p>
 
