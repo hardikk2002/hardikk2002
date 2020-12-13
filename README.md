@@ -21,11 +21,11 @@
 </br>
 </br>
 
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hardikk2002" target="blank" style="color:white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40" style="color:white" /></a>
+<a href="https://twitter.com/hardikk2002" target="blank" style="color:white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40"  /></a>
   
-<a href="https://linkedin.com/in/hardikk2002" target="blank" style="color:white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hardikk2002" height="30" width="40" style="color: white;" /></a>
+<a href="https://linkedin.com/in/hardikk2002" target="blank" "><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=cOB0ByCg&id=314DE932D6F6A420C435DE9D93B20BD377D6367F&thid=OIP.cOB0ByCg2UeeSKL_gR73MQHaHa&mediaurl=https%3a%2f%2fcdn3.iconfinder.com%2fdata%2ficons%2ffree-social-icons%2f67%2flinkedin_circle_color-512.png&exph=512&expw=512&q=LinkedIn+Circle+Icon&simid=608044864215384793&ck=5B5973D65F7098DFF0E0A3AA182FE912&selectedIndex=0&FORM=IRPRST&ajaxhist=0" alt="hardikk2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
