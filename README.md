@@ -23,9 +23,9 @@
 
 <h3>Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hardikk2002" target="blank" style="color:white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40"  /></a>
+<a href="https://twitter.com/hardikk2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40"  /></a>
   
-<a href="https://linkedin.com/in/hardikk2002" target="blank" "><img align="center" src=https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.png" alt="hardikk2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hardikk2002" target="blank"><img align="center" src=https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.png" alt="hardikk2002" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
