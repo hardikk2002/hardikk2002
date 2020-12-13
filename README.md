@@ -5,7 +5,7 @@
 <hr>
 </br>
 </br>
-<h1 align="center"> About me 👇</h1>
+<h3 align="left"> About me 👇</h3>
 - 🌱 I’m currently learning **Human phycology.**
 
 - 👯 I’m looking to collaborate on **my Dream Project.**
@@ -22,10 +22,10 @@
 </br>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/hardikk2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40" style="color: white;" /></a>
+<p align="left">
+<a href="https://twitter.com/hardikk2002" target="blank" style="color:white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40" style="color:white" /></a>
   
-<a href="https://linkedin.com/in/hardikk2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hardikk2002" height="30" width="40" style="color: white;" /></a>
+<a href="https://linkedin.com/in/hardikk2002" target="blank" style="color:white"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hardikk2002" height="30" width="40" style="color: white;" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
