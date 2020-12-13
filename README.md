@@ -23,12 +23,12 @@
 
 <h3>Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hardikk2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hardikk2002" height="30" width="40"  /></a>
+<a href="https://twitter.com/hardikk2002" target="blank"><img src="https://marketingland.com/wp-content/ml-loads/2013/01/Twitter-logo-300x299.png" alt="hardikk2002" height="30" width="40"  /></a>
   
-<a href="https://linkedin.com/in/hardikk2002" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.png" alt="hardikk2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hardikk2002" target="blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.png" alt="hardikk2002" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
 <div style="align: center;">
@@ -50,6 +50,9 @@
 </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+</br>
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikk2002&show_icons=true&locale=en&layout=compact" alt="hardikk2002" /></p>
 </div>
