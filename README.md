@@ -5,7 +5,7 @@
 <hr>
 </br>
 </br>
-
+<h1 align="center"> About me 👇</h1>
 - 🌱 I’m currently learning **Human phycology.**
 
 - 👯 I’m looking to collaborate on **my Dream Project.**
