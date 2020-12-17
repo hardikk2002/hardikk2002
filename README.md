@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hardikk2002/](https://github.com/hardikk2002/)
 
-- 📝 I regularly write articles on [https://medium.com/@hardikk2002](https://medium.com/@hardikk2002)
-
 - 📫 How to reach me **hardikk2002@gmail.com**
 
 - ⚡ Fun fact: Just remember I am The m3n.in.hood! 🏹
@@ -22,9 +20,9 @@
 </br>
 
 <h3>Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/hardikk2002" target="blank"><img src="https://marketingland.com/wp-content/ml-loads/2013/01/Twitter-logo-300x299.png" alt="hardikk2002" height="30" width="40"  /></a>
-  
 <a href="https://linkedin.com/in/hardikk2002" target="blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.png" alt="hardikk2002" height="30" width="40" /></a>
 </p>
 
