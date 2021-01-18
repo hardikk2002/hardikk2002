@@ -1,5 +1,5 @@
-## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" align="center"  width="35px"> I'm HARDIK KAUSHIK
 
+<h1 align="center">Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm HARDIK KAUSHIK</h1>
 <h1 align="center" style="color: darkgreen;">(th3h00d)</h1>
 <h3 align="center">A passionate Full-Stack Developer and Competitive Programmer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hardikk2002&label=Profile%20views&color=0e75b6&style=flat" alt="hardikk2002" /> </p>
