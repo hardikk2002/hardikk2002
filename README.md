@@ -21,11 +21,11 @@ Talk to me about
 - Mobile application development using **React Native**
 - Solving Data structure and algorithm questions in **C++/Java**
 
-## Hello World!! ⭐️
+## ⭐️ Hello World!! 
 - 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my **Website** here => <a href="">Portfolio</a>
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/hardikk2002/">Linkedin</a>
-- ✍ View my <a href="">Medium Page</a>
+- ✍ View my <a href="https://hardik-blogs.hashnode.dev/">Hashnode</a>
 - 📫 **Reach** me here => hardikk2002@gmail.com
 
 <hr>
