@@ -25,7 +25,7 @@ Talk to me about
 - 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my **Website** here => <a href="">Portfolio</a>
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/hardikk2002/">Linkedin</a>
-- ✍ View my <a href="https://hardik-blogs.hashnode.dev/">Hashnode</a>
+- ✍ View my **articles** on <a href="https://hardik-blogs.hashnode.dev/">Hashnode</a>
 - 📫 **Reach** me here => hardikk2002@gmail.com
 
 <hr>
