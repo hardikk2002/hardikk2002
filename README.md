@@ -8,7 +8,6 @@
 
 
 
-
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
 
 
@@ -29,6 +28,8 @@ Talk to me about
 - 📫 **Reach** me here => hardikk2002@gmail.com
 
 <hr>
+
+![Activity](https://activity-graph.herokuapp.com/graph?username=hardikk2002&theme=xcode)
 
 |<img src="https://github-readme-stats.vercel.app/api?username=hardikk2002&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikk2002"/>|
 |---|---|
